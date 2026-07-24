@@ -5,6 +5,8 @@
 
 **Zero-install, browser-based watermark removal & smart cropping tool. Powered by client-side ONNX inpainting models. No server, no upload — everything runs locally in your browser.**
 
+[https://freetool.surge.sh/](https://freetool.surge.sh/)
+
 ![scrennshot](https://github.com/CoiiChan/wasm_Watermark-Free-Studio/blob/main/screenshot1.png)
 ---
 

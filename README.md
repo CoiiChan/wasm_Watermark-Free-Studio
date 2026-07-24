@@ -5,7 +5,7 @@
 **Zero-install, browser-based watermark removal & smart cropping tool. Powered by client-side ONNX inpainting models. No server, no upload — everything runs locally in your browser.**
 
 **零安装、纯浏览器端的水印去除与智能裁切工具。基于客户端 ONNX 模型进行局部修复（inpainting），无需服务器、无需上传——所有操作在本地浏览器完成。**
-
+![scrennshot](https://github.com/CoiiChan/wasm_Watermark-Free-Studio/blob/main/screenshot1.png)
 ---
 
 ## Why / 为什么做

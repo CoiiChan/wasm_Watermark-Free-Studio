@@ -1,7 +1,6 @@
 
 # Watermark-Free Studio / 无水印工作室
 
-**零安装、纯浏览器端的水印去除与智能裁切工具。基于客户端 ONNX 模型进行局部修复（inpainting），无需服务器、无需上传——所有操作在本地浏览器完成。**
 
 **Zero-install, browser-based watermark removal & smart cropping tool. Powered by client-side ONNX inpainting models. No server, no upload — everything runs locally in your browser.**
 
@@ -29,13 +28,6 @@
 - **Image inpainting** — Mask watermarks, then AI fills naturally.
 - **Smart crop & round corners** — Precise crop with real-time preview; adjustable corner radius for polished exports.
 
-
-- **Video crop** — Trim watermark edges from video. *(Frame-by-frame inpainting is not supported for video — encoding large frames in memory easily triggers OOM.)*
-- **视频裁切** — 切掉视频边缘水印。*(视频不支持逐帧修复——逐帧编码对内存要求极高，容易触发 OOM。)*
-- **零安装** — 打开链接即用，无需下载安装。
-- **完全本地运行** — ONNX 修复模型通过 WebAssembly 在你本机 GPU/CPU 上运行，性能完全取决于你的电脑配置。
-- **图片修复** — 涂抹水印区域，AI 自动填补。
-- **智能裁切与圆角** — 精准裁切实时预览，可调圆角半径。
 
 ---
 
